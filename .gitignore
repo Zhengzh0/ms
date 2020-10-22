@@ -40,6 +40,8 @@ HELP.md
 *.classs
 *.logs
 
+/target/
+.gititnore.swp
 ## version control tools 
 **/.git/
 **/.svn/
