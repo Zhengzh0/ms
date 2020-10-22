@@ -9,6 +9,9 @@
         <module name="ms" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ms" target="8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
